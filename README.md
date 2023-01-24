@@ -3,9 +3,9 @@
 
 - 🔭 I’m a student in **Kwame Nkrumah University Of Science and Technology**
 
-- 🌱 I’m currently learning **JavaScript and Data Science with Python**
+- 🌱 I’m currently learning **Data Science with Python**
 
-- 💬 Ask me about **Python, Data Science, Web development and JavaScript**
+- 💬 Ask me about **Python, Data Science, Machine Learning and anything about tech**
 
 - 📫 How to reach me **kobbyholison2002@gmail.com**
 
