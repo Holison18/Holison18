@@ -3,7 +3,7 @@
 
 - 🔭 I’m a student in **Kwame Nkrumah University Of Science and Technology**
 
-- 🌱 I’m currently learning **Data Science with Python**
+- 🌱 I’m currently learning **Data Science with Python, SQL, C++ and arduino programming**
 
 - 💬 Ask me about **Python, Data Science, Machine Learning and anything about tech**
 
