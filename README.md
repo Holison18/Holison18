@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Holison</h1>
-<h3 align="center">A Data Scientist, front end web developer and a tech enthusiast.</h3>
+<h3 align="center">A Computer Engineering Student and a tech enthusiast.</h3>
 
 - 🔭 I’m a student in **Kwame Nkrumah University Of Science and Technology**
 
-- 🌱 I’m currently learning **Data Science with Python, SQL, C++ and arduino programming**
+- 🌱 I’m currently learning **Python,Django, PostgreSQL, C++, arduino programming etc**
 
 - 💬 Ask me about **Python, Data Science, Machine Learning and anything about tech**
 
