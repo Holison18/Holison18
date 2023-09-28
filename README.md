@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Holison</h1>
-<h3 align="center">A Computer Engineering Student and a tech enthusiast.</h3>
+<h3 align="center">I am a computer engineering student and a tech enthusiast.</h3>
 
 - 🔭 I’m a student in **Kwame Nkrumah University Of Science and Technology**
 
-- 🌱 I’m currently learning **Python,Django, PostgreSQL, C++, arduino programming etc**
+- 🌱 I’m currently learning **Python,Django, PostgreSQL, C++, Arduino programming etc**
 
-- 💬 Ask me about **Python, Data Science, Machine Learning and anything about tech**
+- 💬 Ask me about **Python, Data Science, Machine Learning, and anything about tech**
 
 - 📫 How to reach me **kobbyholison2002@gmail.com**
 
