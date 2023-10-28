@@ -1,6 +1,6 @@
 <div align="center">
   <h1>👋 Hi there, I'm Holison</h1>
-  <h3>Computer Engineering Student | Tech Enthusiast | Aspiring Full-Stack Developer</h3>
+  <h3>Computer Engineering Student | Tech Enthusiast | Aspiring Backend Develop | Aspiring Data Analyst</h3>
 🔭 I'm a student at Kwame Nkrumah University Of Science and Technology
 
 🌱 Currently exploring Python, Django, PostgreSQL, C++, JavaScript, Arduino programming, Figma, Bootstrap, and more
