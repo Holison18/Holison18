@@ -4,7 +4,7 @@
 🔭 I am currently working as a reseach scholar at the Net-Zero Carbon Emissions Lab. I believe in the potential of technology to transform the world around us. The essence of technology is to make lives better and hence my goal is to apply computer engineering principles and knowledge to invent solutions that will improve the quality of human lives.
 
 🌱 Currently exploring Remote Sensing, Geospatial analysis, Machine Learning and Deep Learning and Cloud Computing
-
+<br/>
 📫 Reach me at akofiholisonkobina@gmail.com / kakofiholison1@st.knust.edu.gh
 
   <h3>Connect with me:</h3>
