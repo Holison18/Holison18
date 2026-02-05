@@ -1,13 +1,11 @@
 <div align="center">
   <h1>👋 Hi there, I'm Holison</h1>
-  <h3>Computer Engineering Student | Tech Enthusiast | Aspiring Backend Develop | Aspiring Data Analyst</h3>
-🔭 I'm a student at Kwame Nkrumah University Of Science and Technology
+  <h3>Research Fellow @ NCEL | Geek | Jack of all trades</h3>
+🔭 I am currently working as a reseach scholar at the Net-Zero Carbon Emissions Lab. I believe in the potential of technology to transform the world around us. The essence of technology is to make lives better and hence my goal is to apply computer engineering principles and knowledge to invent solutions that will improve the quality of human lives.
 
-🌱 Currently exploring Python, Django, PostgreSQL, C++, JavaScript, Arduino programming, Figma, Bootstrap, and more
+🌱 Currently exploring Remote Sensing, Geospatial analysis, Machine Learning and Deep Learning and Cloud Computing
 
-💬 Let's talk about Python, Data Science, Machine Learning, or anything tech-related
-
-📫 Reach me at kobbyholison2002@gmail.com
+📫 Reach me at akofiholisonkobina@gmail.com / kakofiholison1@st.knust.edu.gh
 
   <h3>Connect with me:</h3>
   <p>
